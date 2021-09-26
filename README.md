@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kartik667
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on working automation tools
+- 👀 I’m interested in Android App Development
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on Application Development
 - 📫 How to reach me negikartik667@gmail.com
 
 <!---
